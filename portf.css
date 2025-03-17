@@ -1,0 +1,121 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    font-family: "Young Serif", serif;
+}
+
+.section-1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+}
+
+.section-1--contact {
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.section-1--name {
+    font-size: 60px;
+}
+
+.section-1--role {
+    font-size: 30px;
+    margin-top: 10px;
+
+}
+
+.full {
+    padding: 50px;
+}
+
+.sec-2,
+.sec-3,
+.sec-4,
+.sec-5 {
+    margin-top: 20px;
+
+}
+
+.sec-2-dec,
+.sec-3-dec,
+.sec-4-dec.sec-5-dec {
+    margin-top: 10px;
+}
+
+.sec-5 {
+    background-color: black;
+    color: white;
+    padding: 25px;
+}
+
+.sec-5-tittle a {
+    color: skyblue;
+}
+
+.sec-3 li,
+.sec-4 li {
+    list-style: none;
+}
+
+.sec-3 {
+    background-color: #6462fd;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 15px;
+    vertical-align: top;
+}
+
+.sec-4 {
+    background-color: #fe7517;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 15px;
+    vertical-align: top;
+}
+
+.cont-form {
+    margin-top: 20px;
+}
+
+.cont-form-input,
+.cont-form-textarea,
+.cont-form-submit {
+    margin-top: 10px;
+}
+.cont-form-input{
+    padding: 20px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.cont-form-textarea{
+    padding: 20px;
+    border: none;
+    border-bottom: solid black 1px;
+
+}
+.cont-form-submit{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orangered;
+    color: black;
+    border: none;
+    text-size-adjust: 20px;
+}
